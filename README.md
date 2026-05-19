@@ -4,3 +4,5 @@ Este trabajo presenta una exploración computacional de la Conjetura de Collatz 
 A través del desarrollo de algoritmos específicos, se busca identificar patrones de crecimiento, relaciones entre nodos y propiedades emergentes dentro de la expansión del árbol, evaluando además la eficiencia computacional de las técnicas empleadas. El proyecto combina fundamentos matemáticos, análisis de estructuras discretas y programación orientada a la experimentación numérica.
 
 El trabajo fue desarrollado por los alumnos Jhonatan Obando, Benjamin Valenzuela y Adaia FLores para la asignatura impartida por el profesor Patricio Toledo en la Universidad Técnica Federico Santa María.
+(Archivos en la rama de codespace)
+(Rama Main unicamente usada para el proceso de guardado e intercambio de codigo entre el grupo)
